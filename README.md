@@ -1,0 +1,1 @@
+# static-basic-auth-server
