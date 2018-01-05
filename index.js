@@ -1,9 +1,3 @@
-/**
- * usage : node index.js name_dir_on_server url_path port username password
- *
- * ex : node index.js /srv/www/netex-data netex-data 8888 user password
- *
- */
 var express = require("express")
 var ss = require("serve-static")
 var ba = require("basic-auth")
